@@ -1,0 +1,2 @@
+# eclipsemodel
+this contains examples
